@@ -32,6 +32,13 @@ Lane, J.W., and Dawson, C.B., 2019, Hydrogeologic Applications of sUAS: Drones a
 
 Lane, J.W., Dawson, C.B., and Briggs, M.A., Unoccupied Airborne Systems and Near-Surface Geophysics: What Does the Future Hold? (Invited) [abs.], in American Geophysical Union Fall Meeting, San Francisco, California, 9-13 December 2019: Washington, D.C., American Geophysical Union. 
 
+## 2018 
+
+Dawson, C.B., 2018, sUAS - Hydrogeological Applications in the USGS: in Society of Exploration Geophysicists 2018, 19 October 2018, Anaheim, California.
+
+## 2008
+
+Lane, J.W., Jr., Day-Lewis, F.D., Johnson, C.D., Dawson, C.B., Nelms, D.L., Eddy-Miller, C.A., Wheeler, J.D., Harvey, C.F., and Karam, H., 2008, Fiber-optic distributed temperature sensing: A new tool for assessment and monitoring of hydrologic processes, in Symposium on the Application of Geophysics to Engineering and Environmental Problems, April 6-10, 2008, Philadelphia, Pennsylvania, Proceedings: Denver, Colorado, Environmental and Engineering Geophysical Society, 9 p
 
 ## 2002 
 
