@@ -1,4 +1,4 @@
-# Articles, Reports, and Esays
+# Articles, Reports, and Essays
 
 ## 2022
 
