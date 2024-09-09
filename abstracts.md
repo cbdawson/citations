@@ -22,7 +22,7 @@ Dawson, C.B., Lane, J.W., and Briggs, M.A., 2019, Low-altitude airborne surveys 
 
 Dawson, C.B., Phelps, G., White, E.A., and Lane, J.W., 2019, Drone Geophysics: Lessons learned for testing and development to expand traditional geophysical methods for sUAS surveys [abs.], in American Geophysical Union Fall Meeting, San Francisco, California, 9-13 December 2019: Washington, D.C., American Geophysical Union.
 
-#2002 
+## 2002 
 
 Dawson, C.B., Lane, J.W. Jr., White, E.A., and Belaval, Marcel, 2002, Integrated geophysical investigation of the Winthrop Landfill southern flow path, Winthrop, Maine, in Symposium on the Application of Geophysics to Engineering and Environmental Problems, Las Vegas, Nevada, February 10-14, 2002, Proceedings: Wheat Ridge, Colorado, Environmental and Engineering Geophysical Society, 22 p.
 
