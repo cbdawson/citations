@@ -1,5 +1,13 @@
 # Articles, Reports, and Essays
 
+## 2025
+
+Zurawski, J., Carder, D., Chaniotakis, E., Dawson, C.B., Dart, E., Hawk, C., et al, _in press_, High Energy Physics Network Requirements Review: Final Report: Lawrence Berkeley National Laboratory Report LBNL-2001696.
+
+## 2024
+
+Zurawski, J., Brown, B., Rai, G., Dart, E., Dawson, C.B., Hawk, C., Mantica, P., Margetis, S., Miller, K., Miller, N., and Wiedlea, A., 2024, Nuclear Physics Network Requirements Review: Final Report: Lawrence Berkeley National Laboratory Report LBNL-2001602, https://doi.org/10.2172/2386941.
+
 ## 2022
 
 Mangel, A.R., Dawson, C.B., Rey, D.M., and Briggs, M.B., 2022, Drone applications in hydrogeophysics: Recent examples and a vision for the future, in The Leading Edge, vol. 41, no 8, https://doi.org/10.1190/tle41080540.1 
