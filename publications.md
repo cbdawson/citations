@@ -2,7 +2,7 @@
 
 ## 2025
 
-Zurawski, J., Carder, D., Chaniotakis, E., Dawson, C.B., Dart, E., Hawk, C., Love, J., Paine, D., Patwa, A., Robinson, K., Tian, J., Tracy, C., and Wiedlea, A., 2025,High Energy Physics Network Requirements Review: Final Report, July 2024–December 2024: Lawrence Berkeley National Laboratory Report LBNL-2001696. https://doi.org/10.2172/299709.
+Zurawski, J., Carder, D., Chaniotakis, E., Dawson, C.B., Dart, E., Hawk, C., Love, J., Paine, D., Patwa, A., Robinson, K., Tian, J., Tracy, C., and Wiedlea, A., 2025,High Energy Physics Network Requirements Review: Final Report, July 2024–December 2024: Lawrence Berkeley National Laboratory Report LBNL-2001696. https://doi.org/10.2172/299709 or https://www.osti.gov/biblio/2997097.
 
 ## 2024
 
